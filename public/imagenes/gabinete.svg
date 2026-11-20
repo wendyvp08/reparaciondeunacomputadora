@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" fill="#eaf1fb"/>
+<rect x="110" y="30" width="250" height="250" fill="#1b2430"/>
+<rect x="125" y="45" width="215" height="220" fill="#2d3a4d"/>
+<circle cx="350" cy="55" r="9" fill="#f5a623"/>
+<circle cx="350" cy="255" r="9" fill="#f5a623"/>
+<polygon points="390,140 450,140 450,120 500,150 450,180 450,160 390,160" fill="#f5a623"/>
+<text x="380" y="60" fill="#13315c" style="font:bold 16px Verdana">2 tornillos</text>
+<text x="380" y="250" fill="#13315c" style="font:bold 16px Verdana">Desliza el panel</text>
+<text x="110" y="315" fill="#13315c" style="font:bold 20px Verdana">Abrir el gabinete</text>
+</svg>

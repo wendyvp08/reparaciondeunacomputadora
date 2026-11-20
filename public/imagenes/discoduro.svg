@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" fill="#eaf1fb"/>
+<rect x="120" y="30" width="360" height="240" rx="12" fill="#8a97a8"/>
+<circle cx="260" cy="150" r="95" fill="#c9d2de"/>
+<circle cx="260" cy="150" r="60" fill="#aab6c5"/>
+<circle cx="260" cy="150" r="14" fill="#5b6778"/>
+<polygon points="410,50 430,50 300,140 290,130" fill="#5b6778"/>
+<circle cx="420" cy="55" r="14" fill="#5b6778"/>
+<circle cx="140" cy="50" r="7" fill="#5b6778"/>
+<circle cx="140" cy="250" r="7" fill="#5b6778"/>
+<circle cx="460" cy="250" r="7" fill="#5b6778"/>
+<rect x="480" y="100" width="70" height="100" fill="#f5a623"/>
+<rect x="492" y="115" width="10" height="70" fill="#0b2545"/>
+<rect x="512" y="115" width="10" height="70" fill="#0b2545"/>
+<rect x="532" y="115" width="10" height="70" fill="#0b2545"/>
+<text x="120" y="315" fill="#13315c" style="font:bold 22px Verdana">Disco duro HDD</text>
+</svg>

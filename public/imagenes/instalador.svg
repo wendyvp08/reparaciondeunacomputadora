@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" fill="#eaf1fb"/>
+<rect x="70" y="15" width="460" height="270" fill="#ffffff" stroke="#13315c"/>
+<rect x="70" y="15" width="460" height="36" fill="#1f5aa6"/>
+<text x="90" y="40" fill="#ffffff" style="font:bold 16px Verdana">Instalación de Windows</text>
+<text x="100" y="95" fill="#1b2430" style="font:15px Verdana">Idioma a instalar: Español</text>
+<text x="100" y="125" fill="#1b2430" style="font:15px Verdana">Formato de hora: Español (México)</text>
+<text x="100" y="155" fill="#1b2430" style="font:15px Verdana">Teclado: Latinoamericano</text>
+<rect x="230" y="190" width="140" height="44" fill="#1f5aa6"/>
+<text x="248" y="218" fill="#ffffff" style="font:bold 16px Verdana">Instalar ahora</text>
+<text x="100" y="268" fill="#1f5aa6" style="font:14px Verdana">Reparar el equipo</text>
+<text x="70" y="320" fill="#13315c" style="font:bold 18px Verdana">Pantalla inicial del instalador</text>
+</svg>

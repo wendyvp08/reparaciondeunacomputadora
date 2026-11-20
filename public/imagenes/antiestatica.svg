@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" fill="#eaf1fb"/>
+<rect x="40" y="120" width="170" height="100" rx="20" fill="#f2c9a0"/>
+<rect x="110" y="120" width="60" height="100" fill="#1f5aa6"/>
+<rect x="128" y="150" width="24" height="40" fill="#c9d2de"/>
+<rect x="210" y="168" width="200" height="6" fill="#f5a623"/>
+<polygon points="410,158 440,171 410,184" fill="#5b6778"/>
+<rect x="440" y="70" width="130" height="200" fill="#8a97a8"/>
+<text x="40" y="60" fill="#13315c" style="font:bold 18px Verdana">Pulsera en la muñeca</text>
+<text x="40" y="310" fill="#13315c" style="font:bold 20px Verdana">Pinza al metal sin pintura del gabinete</text>
+</svg>

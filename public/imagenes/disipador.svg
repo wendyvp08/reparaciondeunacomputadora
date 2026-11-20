@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340">
+<rect width="600" height="340" fill="#eaf1fb"/>
+<rect x="170" y="25" width="260" height="260" fill="#aab6c5"/>
+<rect x="200" y="60" width="200" height="12" fill="#8a97a8"/>
+<rect x="200" y="100" width="200" height="12" fill="#8a97a8"/>
+<rect x="200" y="140" width="200" height="12" fill="#8a97a8"/>
+<rect x="200" y="180" width="200" height="12" fill="#8a97a8"/>
+<rect x="200" y="220" width="200" height="12" fill="#8a97a8"/>
+<circle cx="200" cy="55" r="18" fill="#13315c"/>
+<circle cx="400" cy="55" r="18" fill="#13315c"/>
+<circle cx="200" cy="255" r="18" fill="#13315c"/>
+<circle cx="400" cy="255" r="18" fill="#13315c"/>
+<text x="194" y="61" fill="#ffffff" style="font:bold 18px Verdana">1</text>
+<text x="394" y="61" fill="#ffffff" style="font:bold 18px Verdana">3</text>
+<text x="194" y="261" fill="#ffffff" style="font:bold 18px Verdana">4</text>
+<text x="394" y="261" fill="#ffffff" style="font:bold 18px Verdana">2</text>
+<text x="170" y="320" fill="#13315c" style="font:bold 18px Verdana">Aprieta en cruz: 1, 2, 3 y 4</text>
+</svg>
